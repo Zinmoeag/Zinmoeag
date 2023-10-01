@@ -13,9 +13,9 @@
   <img src="./icons/redux.svg" width="40" height="40" style="margin:5px;" alt="redux" />
 </p>
 
-<p>You can Contact me .......</p>
+📫 How to reach me: ...
 <p>
-<a href="www.linkedin.com/in/zin-moe-75b340258" target="blank"><img align="center" src="https://github.com/Zinmoag/Zinmoag/icons/linkedin.svg" title = "LinkedIn" alt="" height="30" /></a>
+<a href="www.linkedin.com/in/zin-moe-75b340258" target="blank"><img align="center" src="./icons/linkedin.svg" title = "LinkedIn" alt="" height="30" /></a>
 </p>
 
 
