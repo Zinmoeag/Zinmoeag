@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning ... python
 
-<img src="./icons/react.svg" width="10" height="10" alt="react" />
+<img src="./icons/react.svg" width="40" height="40" alt="react" />
 
 <!--
 **Zinmoeag/Zinmoeag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
