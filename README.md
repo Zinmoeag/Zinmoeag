@@ -1,8 +1,9 @@
 ### Hi there 👋
 <p>I'm Web Developer</p>
+
+<img src="./img/semi.jpg" alt="semi" />
+
 🌱 I’m currently learning ... Python
-
-
 <p>
   <img src="./icons/react.svg" width="40" height="40" style="margin:5px;" alt="react" />
   <img src="./icons/laravel.svg" width="40" height="40" style="margin:5px;" alt="laravel" />
