@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>I'm Web Developer</p>
 
-<img src="./img/semi.jpg" alt="semi" />
+<img src="./img/404.jpg" alt="semi" />
 
 🌱 I’m currently learning ... Python
 <p>
