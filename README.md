@@ -16,7 +16,7 @@
 
 📫 How to reach me: ...
 <p>
-<a href="www.linkedin.com/in/zin-moe-75b340258" target="blank"><img align="center" src="./icons/linkedin.svg" title = "LinkedIn" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/zin-moe-75b340258" target="blank"><img align="center" src="./icons/linkedin.svg" title = "LinkedIn" alt="" height="30" /></a>
 </p>
 
 
