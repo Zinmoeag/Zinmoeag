@@ -2,6 +2,12 @@
 🌱 I’m currently learning ... python
 
 <img src="./icons/react.svg" width="40" height="40" alt="react" />
+<img src="./icons/laravel.svg" width="40" height="40" alt="laravel" />
+<img src="./icons/javascript.svg" width="40" height="40" alt="javascript" />
+<img src="./icons/nodedotjs.svg" width="40" height="40" alt="nodedotjs" />
+<img src="./icons/html5.svg" width="40" height="40" alt="html5" />
+<img src="./icons/css3.svg" width="40" height="40" alt="css3" />
+
 
 <!--
 **Zinmoeag/Zinmoeag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
