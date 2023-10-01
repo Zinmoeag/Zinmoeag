@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning ... python
+<p>I'm Web Developer</p>
+🌱 I’m currently learning ... Python
 
 
 <p>
@@ -12,6 +13,12 @@
   <img src="./icons/redux.svg" width="40" height="40" style="margin:5px;" alt="redux" />
 </p>
 
+<p>You can Contact me .......</p>
+<p>
+  <a herf="www.linkedin.com/in/zin-moe-75b340258">
+      <img src="./icons/linkedin.svg" width="40" height="40" style="margin:5px;" alt="linkedin" />
+  </a>
+</p>
 
 
 <!--
