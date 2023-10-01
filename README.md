@@ -15,9 +15,7 @@
 
 <p>You can Contact me .......</p>
 <p>
-  <a herf="www.linkedin.com/in/zin-moe-75b340258" target="blank" >
-      <img src="./icons/linkedin.svg" width="40" height="40" style="margin:5px;" alt="linkedin" />
-  </a>
+<a href="www.linkedin.com/in/zin-moe-75b340258" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/icons/linkedin.svg" title = "LinkedIn" alt="" height="30" /></a>
 </p>
 
 
