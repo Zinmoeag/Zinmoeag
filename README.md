@@ -2,7 +2,7 @@
 <p>I'm Web Developer</p>
 📫 Portfolio: ...
 <p>
-<a href="https://zinmoeag.github.io/portfolio/" target="blank">https://zinmoeag.github.io/portfolio/</a>
+<a href="https://zinmoeaung-portfolio.vercel.app/" target="blank">https://zinmoeaung-portfolio.vercel.app/</a>
 </p>
 
 🌱 I’m currently learning ... Python
