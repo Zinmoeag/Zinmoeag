@@ -1,11 +1,12 @@
 ### Hi there 👋
-<p>I'm Web Developer</p>
+<h3>I'm Web Developer</h3>
+<p>⚡ Fun fact: ... I have the unique capability to transform caffeine into code or the art of programming >_<.</p>
+🌱 I’m currently learning ... Typescript
+<p>___________________________________________________________________________________________</p>
 📫 Portfolio: ...
 <p>
 <a href="https://zinmoeaung-portfolio.vercel.app/" target="blank">https://zinmoeaung-portfolio.vercel.app/</a>
 </p>
-
-🌱 I’m currently learning ... Python
 <p>
   <img src="./icons/react.svg" width="40" height="40" style="margin:5px;" alt="react" />
   <img src="./icons/laravel.svg" width="40" height="40" style="margin:5px;" alt="laravel" />
