@@ -5,7 +5,7 @@
 <p>______________________________________________________________________________________________________________________________________</p>
 📫 Portfolio: ...
 <p>
-<a href="https://zinmoeaung-portfolio.vercel.app/" target="blank">https://zinmoeaung-portfolio.vercel.app/</a>
+<a href="https://myportfolio-self-zeta.vercel.app/" target="blank">https://myportfolio-self-zeta.vercel.app/</a>
 </p>
 <p>
   <img src="./icons/react.svg" width="40" height="40" style="margin:5px;" alt="react" />
