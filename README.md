@@ -1,7 +1,6 @@
 ### Hi there 👋
 <h3>I'm Web Developer</h3>
 <p>⚡ Fun fact: ... I have the unique capability to transform caffeine into code or the art of programming >_<.</p>
-🌱 I’m currently learning ... Typescript
 <p>______________________________________________________________________________________________________________________________________</p>
 📫 Portfolio: ...
 <p>
