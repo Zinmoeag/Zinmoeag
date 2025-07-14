@@ -7,7 +7,7 @@ I'm currently working as a frontend developer<br>I'm currently learning react na
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/zin.moe.aung.714113?mibextid=ZbWKwL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.facebook.com/zin.moe.aung.714113?mibextid=ZbWKwL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.facebook.com/zin.moe.aung.714113?mibextid=ZbWKwL](https://www.linkedin.com/in/zin-moe-aung-75b340258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 # 💻 Tech Stack:
 
