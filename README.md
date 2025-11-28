@@ -2,7 +2,7 @@
 
 🧑🏼‍💻 [Devzinmoag - my website](https://devzinmoag.vercel.app/)
 
-I'm currently working as a frontend developer<br>I'm currently learning react native
+I'm currently working as a Fullstack developer<br>I'm currently learning Java
 
 ## 🌐 Socials:
 
